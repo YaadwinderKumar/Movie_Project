@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Indie+Flower&family=Young+Serif&display=swap');
 
-html
+#img
 {
-    background: url(https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTV8fGJhY2tncm91bmQlMjBpbWFnZXxlbnwwfHx8fDE2OTY4MTY4MjR8MA&ixlib=rb-4.0.3);
-    background-size: cover;
-    height: 100%;
-    width: 100%;
-    background-repeat: no-repeat;
+    height: 100rem;
+    width:130rem;
+    margin-top: -20rem;
+    margin-left: -1rem;
+    position: fixed;
+    z-index: -2;
 }
 main
 {
@@ -56,14 +57,14 @@ main button
 }
 ul
 {
-    background-image: url(https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTV8fGJhY2tncm91bmQlMjBpbWFnZXxlbnwwfHx8fDE2OTY4MTY4MjR8MA&ixlib=rb-4.0.3);
+   
     list-style: none;
     text-align: center;
     margin-top: 20rem;
 }
 ul li
 {
-    margin-top: 10rem;
+    margin-top: 20rem;
     font-size: 2rem;
     margin-bottom: 10rem;
     color: aliceblue;
