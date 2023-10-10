@@ -34,8 +34,6 @@ function ShowMovies(movies) {
                 <img src="${movie.Poster}">
                 <p>${movie.Year}</p>
                 <p>${movie.Type}</p>
-                <br><br><br>
-                <hr>
             </li>
         `;
     });
