@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Indie+Flower&family=Young+Serif&display=swap');
+
+html
+{
+    background: url(https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTV8fGJhY2tncm91bmQlMjBpbWFnZXxlbnwwfHx8fDE2OTY4MTY4MjR8MA&ixlib=rb-4.0.3);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+main
+{
+    color: rgb(255, 255, 255);
+}
+main h1
+{
+    font-size: 10rem;
+    margin-left: 40rem;
+    margin-top: 10rem;
+    font-family: 'Indie Flower';
+}
+main p
+{
+    font-size: 3rem;
+    font-family: 'Dancing Script';
+    margin-left: 40rem;
+    margin-top: -10rem;
+}
+main input
+{
+    font-size: 1.5rem;
+    height: 3rem;
+    width: 30rem;
+    margin-top: 1rem;
+    margin-left: 40rem;
+    border: none;
+    border-radius: .8rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+main button
+{
+    margin-top: 5rem;
+    margin-left: 52rem;
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 1.2rem;
+    border-color: aliceblue;
+    background-color: rgb(255, 255, 255);
+    color: rgb(128, 33, 33);
+    font-family:'Young Serif';
+    cursor: pointer;
+}
+ul
+{
+    background-image: url(https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTV8fGJhY2tncm91bmQlMjBpbWFnZXxlbnwwfHx8fDE2OTY4MTY4MjR8MA&ixlib=rb-4.0.3);
+    list-style: none;
+    text-align: center;
+    margin-top: 20rem;
+}
+ul li
+{
+    margin-top: 10rem;
+    font-size: 2rem;
+    margin-bottom: 10rem;
+    color: aliceblue;
+    
+}
